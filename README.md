@@ -5,10 +5,12 @@ To analyse the stability of the system having open loop transfer function, G(S)=
 Computer with MATLAB software
 
 ## Theory:
+![WhatsApp Image 2025-11-19 at 11 26 13](https://github.com/user-attachments/assets/29e3f22a-0761-4d11-8e9a-732ba53cb110)
+![WhatsApp Image 2025-11-19 at 11 26 18](https://github.com/user-attachments/assets/8d0d108a-23ed-43e9-afd8-a9eeef6aa59f)
+![WhatsApp Image 2025-11-19 at 11 26 17](https://github.com/user-attachments/assets/8d0c3659-ab9d-45d0-8c11-203159fd64fb)
 
-![cs](https://github.com/user-attachments/assets/11ec7b2c-8943-4c68-b375-526c3c08a23f)
-![cs2](https://github.com/user-attachments/assets/741c0643-e59a-4b5e-af9b-d779caa67fc2)
-![WhatsApp Image 2025-11-16 at 15 20 21_7861d614](https://github.com/user-attachments/assets/ade524d0-9a0e-4e83-b6cb-b3c79047007e)
+
+
 
 ## Procedure:
 	Open MATLAB software
@@ -40,13 +42,13 @@ end
 ```
 ## Output:
 
-<img width="695" height="523" alt="image" src="https://github.com/user-attachments/assets/aaa12a59-92a1-4e91-96ef-61c7cc597777" />
+<img width="1917" height="1033" alt="image" src="https://github.com/user-attachments/assets/c40f4be1-5c11-4f5b-9f25-c49315b3a15e" />
 
 
 ## Result:
-Thus the polar plot for the given transfer function was drawn and verified using MATLAB. <br>
-Gain margin = 3.57 dB <br>
-Phase Margin = 27.9 degrees <br>
-Gain crossover frequency = 1.76 rad/sec <br>
-Phase crossover frequency = 4.47 rad/sec <br>
-The system is stable.
+Thus the polar plot for the given transfer function was drawn and verified using MATLAB.<br>
+Gain margin = 0.7<br>
+Phase Margin = -8.8865<br>
+Gain crossover frequency = 3.7565<br>
+Phase crossover frequency = 3.1623<br>
+The system is unstable.<br>
